@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: stackoverflow-69878187
+Implementation-Version: 1.2.9
+Built-By: F
+Implementation-Vendor-Id: jp.gtf.kernel
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://spring.io/projects/spring-boot/stackoverfl
+ ow-69878187
+Created-By: Maven Integration for Eclipse
+
